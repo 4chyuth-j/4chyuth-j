@@ -4,6 +4,10 @@
   🚀 Full-stack developer in the making | 💻 MERN Stack Explorer | 🔧 Mechanical Engineer turned Coder
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4chyuth-j&theme=react&hide_border=true" alt="4chyuth-j's GitHub streak" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
