@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Streak alternative: Use GitHub Stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=4chyuth-j&show_icons=true&theme=react&hide_border=true" alt="4chyuth-j's GitHub stats" />
+  <!-- Custom GitHub stats: Days Active and Total Commits -->
+  <img src="https://img.shields.io/badge/Days%20Active-XXX-blue?style=for-the-badge" alt="Days Active" />
+  <img src="https://img.shields.io/badge/Total%20Commits-YYY-brightgreen?style=for-the-badge" alt="Total Commits" />
 </p>
 
 ---
