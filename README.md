@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <!-- Custom GitHub stats: Days Active and Total Commits -->
-  <img src="https://img.shields.io/badge/Days%20Active-XXX-blue?style=for-the-badge" alt="Days Active" />
-  <img src="https://img.shields.io/badge/Total%20Commits-YYY-brightgreen?style=for-the-badge" alt="Total Commits" />
+  <!-- Alternative Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=4chyuth-j&theme=react&hide_border=true" alt="4chyuth-j's GitHub streak" />
 </p>
 
 ---
