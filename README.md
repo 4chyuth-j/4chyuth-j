@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4chyuth-j&theme=react&hide_border=true" alt="4chyuth-j's GitHub streak" />
+  <!-- GitHub Streak alternative: Use GitHub Stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=4chyuth-j&show_icons=true&theme=react&hide_border=true" alt="4chyuth-j's GitHub stats" />
 </p>
 
 ---
